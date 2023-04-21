@@ -1,23 +1,19 @@
 <p align="middle">
-<img src="images/hero.svg" width="300px" aria-hidden="true" alt="Purple Fedora" />
+<img src="images/hero.svg" width="300px" aria-hidden="true" alt="hacker" />
 </p>
-
 <h1 align="middle">👋 Hello 👋</h1>
 
-I'm **Robert McGovern** _(he, him, they)_, a dabbler in code, occasional tech editor for articles & books, and long long ago a book writer.
+I'm **HASAN** _(he, him, they)_, a dabbler in code, occasional tech editor for articles & books, and long long ago a book writer.
 
 ---
 ## Skills
 
-<p>
-Operating Systems: <br/>
-<img src="images/apple.svg" style='vertical-align:middle' aria-label="Apple macOS">
-<img src="images/linux.svg" style='vertical-align:middle' aria-label="Linux">
-<img src="images/windows.svg" style='vertical-align:middle' aria-label="Microsoft Windows">
-</p>
 
 <p>
-Programming Languages: <br/>
+Technologies : 
+ <br/>
+ <br/>
+  
 
 <img src="images/html.svg" style='vertical-align:middle' aria-label="HTML 5">
 <img src="images/css.svg" style='vertical-align:middle' aria-label="CSS 3">
