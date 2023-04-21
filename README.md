@@ -1,5 +1,5 @@
 <p align="middle">
-<img src="images/javascript.gif" width="300px" aria-hidden="true" alt="Purple Fedora" />
+<img src="images/hero.svg" width="300px" aria-hidden="true" alt="Purple Fedora" />
 </p>
 
 <h1 align="middle">👋 Hello 👋</h1>
@@ -18,14 +18,14 @@ Operating Systems: <br/>
 
 <p>
 Programming Languages: <br/>
-<img src="images/sass.svg" style='vertical-align:middle' aria-label="Swift">
+
 <img src="images/html.svg" style='vertical-align:middle' aria-label="HTML 5">
 <img src="images/icons8-css3-48.svg" style='vertical-align:middle' aria-label="CSS 3">
-<img src="images/javascript.gif" style='vertical-align:middle' aria-label="JavaScript">
-<img src="images/react.gif" style='vertical-align:middle' aria-label="C">
+<img src="images/sass.svg" style='vertical-align:middle' aria-label="Swift">
+<img src="images/js.svg" style='vertical-align:middle' aria-label="JavaScript">
+<img src="images/react.svg" style='vertical-align:middle' aria-label="C">
 <img src="images/git.svg" style='vertical-align:middle' aria-label="C++">
 <img src="images/npm.svg" style='vertical-align:middle' aria-label="Ruby">
-<img src="images/react.gif" style='vertical-align:middle' aria-label="C Sharp">
 
 </p>
 
