@@ -18,14 +18,14 @@ Operating Systems: <br/>
 
 <p>
 Programming Languages: <br/>
-<img src="images/swift.svg" style='vertical-align:middle' aria-label="Swift">
-<img src="images/html5.svg" style='vertical-align:middle' aria-label="HTML 5">
+<img src="images/sass.svg" style='vertical-align:middle' aria-label="Swift">
+<img src="images/html.svg" style='vertical-align:middle' aria-label="HTML 5">
 <img src="images/icons8-css3-48.svg" style='vertical-align:middle' aria-label="CSS 3">
 <img src="images/javascript.gif" style='vertical-align:middle' aria-label="JavaScript">
-<img src="images/c.svg" style='vertical-align:middle' aria-label="C">
-<img src="images/c++.svg" style='vertical-align:middle' aria-label="C++">
-<img src="images/ruby.svg" style='vertical-align:middle' aria-label="Ruby">
-<img src="images/csharp.svg" style='vertical-align:middle' aria-label="C Sharp">
+<img src="images/react.gif" style='vertical-align:middle' aria-label="C">
+<img src="images/git.svg" style='vertical-align:middle' aria-label="C++">
+<img src="images/npm.svg" style='vertical-align:middle' aria-label="Ruby">
+<img src="images/react.gif" style='vertical-align:middle' aria-label="C Sharp">
 
 </p>
 
