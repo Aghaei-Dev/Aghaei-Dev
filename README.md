@@ -1,7 +1,8 @@
 <p align="middle">
 <img src="images/hero.svg" width="300px" aria-hidden="true" alt="hacker" />
 </p>
-<h1 align="middle">👋 Hello 👋</h1>
+
+---
 
 I'm **HASAN** _(he, him, they)_, a dabbler in code, occasional tech editor for articles & books, and long long ago a book writer.
 
@@ -20,6 +21,7 @@ Technologies :
 <img src="images/sass.svg" style='vertical-align:middle' aria-label="Swift">
 <img src="images/js.svg" style='vertical-align:middle' aria-label="JavaScript">
 <img src="images/react.svg" style='vertical-align:middle' aria-label="C">
+ <img src="images/styled.svg" style='vertical-align:middle;width:42px' aria-label="Swift">
 <img src="images/git.svg" style='vertical-align:middle' aria-label="C++">
 <img src="images/npm.svg" style='vertical-align:middle' aria-label="Ruby">
 
