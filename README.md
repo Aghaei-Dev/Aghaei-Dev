@@ -1,5 +1,5 @@
 <p align="middle">
-<img src="images/purple_fedora.svg" width="300px" aria-hidden="true" alt="Purple Fedora" />
+<img src="images/javascript.gif" width="300px" aria-hidden="true" alt="Purple Fedora" />
 </p>
 
 <h1 align="middle">👋 Hello 👋</h1>
@@ -21,7 +21,7 @@ Programming Languages: <br/>
 <img src="images/swift.svg" style='vertical-align:middle' aria-label="Swift">
 <img src="images/html5.svg" style='vertical-align:middle' aria-label="HTML 5">
 <img src="images/css3.svg" style='vertical-align:middle' aria-label="CSS 3">
-<img src="images/javascript.svg" style='vertical-align:middle' aria-label="JavaScript">
+<img src="images/javascript.gif" style='vertical-align:middle' aria-label="JavaScript">
 <img src="images/c.svg" style='vertical-align:middle' aria-label="C">
 <img src="images/c++.svg" style='vertical-align:middle' aria-label="C++">
 <img src="images/ruby.svg" style='vertical-align:middle' aria-label="Ruby">
