@@ -20,7 +20,7 @@ Operating Systems: <br/>
 Programming Languages: <br/>
 
 <img src="images/html.svg" style='vertical-align:middle' aria-label="HTML 5">
-<img src="images/icons8-css3-48.svg" style='vertical-align:middle' aria-label="CSS 3">
+<img src="images/css.svg" style='vertical-align:middle' aria-label="CSS 3">
 <img src="images/sass.svg" style='vertical-align:middle' aria-label="Swift">
 <img src="images/js.svg" style='vertical-align:middle' aria-label="JavaScript">
 <img src="images/react.svg" style='vertical-align:middle' aria-label="C">
