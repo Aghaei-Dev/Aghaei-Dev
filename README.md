@@ -4,7 +4,7 @@
 
 ---
 
-I'm **HASAN** _(he, him, they)_, a dabbler in code, occasional tech editor for articles & books, and long long ago a book writer.
+<!-- I'm **HASAN** _(he, him, they)_, a dabbler in code, occasional tech editor for articles & books, and long long ago a book writer. -->
 
 ---
 ## Skills
@@ -27,13 +27,13 @@ Technologies :
 
 </p>
 
-Able to configure & maintain Linux servers; from Arch Linux to Ubuntu. Experience with packages such as Apache HTTPD, Caddy, NGINX, Procmail, Exim, Postfix, SpamAssassin, Rspamd, NextCloud, Gitea, Jekyll, 11ty, Nunjucks and many more.
+<!-- Able to configure & maintain Linux servers; from Arch Linux to Ubuntu. Experience with packages such as Apache HTTPD, Caddy, NGINX, Procmail, Exim, Postfix, SpamAssassin, Rspamd, NextCloud, Gitea, Jekyll, 11ty, Nunjucks and many more. -->
 
 ---
 
 ## 🕰️ Short History 🕰️
 
-Once upon a time I was an embedded systems engineer working in C, C++ & Java (with some Ruby on the side), and admin for the company's Linux network. During this time I was tech editor for the book **Eclipse in Action** (Manning Publishing), before also becoming a writer on the book.
+<!-- Once upon a time I was an embedded systems engineer working in C, C++ & Java (with some Ruby on the side), and admin for the company's Linux network. During this time I was tech editor for the book **Eclipse in Action** (Manning Publishing), before also becoming a writer on the book.
 
 After 5 years I left and became a stay at home parent. In 2007 I got my first Mac, and started to learn Objective-C and Mac programming to keep my hand in.
 
@@ -57,7 +57,7 @@ I've also begun learning Unity & C#.
 
 I'm all over the place ...
 
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/robertmcgovern/) [![FrontendMentor](images/frontendmentor.svg)](https://www.frontendmentor.io/profile/tarasis) [![Twitter](images/twitter.svg)](https://www.twitter.com/tarasis) [![Telegram](images/telegram.svg)](https://t.me/duemoko) [![Blog](https://img.shields.io/badge/-%20%20BLOG%20%20-blueviolet?style=for-the-badge)](https://tarasis.net) [![Portfolio](https://img.shields.io/badge/-%20%20Portfolio%20%20-blueviolet?style=for-the-badge)](https://rmcg.dev)
+[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/robertmcgovern/) [![FrontendMentor](images/frontendmentor.svg)](https://www.frontendmentor.io/profile/tarasis) [![Twitter](images/twitter.svg)](https://www.twitter.com/tarasis) [![Telegram](images/telegram.svg)](https://t.me/duemoko) [![Blog](https://img.shields.io/badge/-%20%20BLOG%20%20-blueviolet?style=for-the-badge)](https://tarasis.net) [![Portfolio](https://img.shields.io/badge/-%20%20Portfolio%20%20-blueviolet?style=for-the-badge)](https://rmcg.dev) -->
 
 
 
@@ -65,7 +65,7 @@ I'm all over the place ...
 <img src="images/linkedin.svg" style='vertical-align:middle'> - [Robert McGovern](https://www.linkedin.com/in/robertmcgovern/)
 </p> -->
 
-<details><summary><h2>🤪 Parting Fun Facts ... 🤪</h2></summary>
+<!-- <details><summary><h2>🤪 Parting Fun Facts ... 🤪</h2></summary>
 <p>
 
 ### Why **Tarasis**?
@@ -81,7 +81,7 @@ I love the colour purple, and I often wear a black fedora.</p>
 
 ## 😻 With thanks ... 😻
 
-The shields are from [Shunsuke Mano](https://github.com/progfay/shields-with-icon) & [Shields.io](https://shields.io/)
+The shields are from [Shunsuke Mano](https://github.com/progfay/shields-with-icon) & [Shields.io](https://shields.io/) -->
 
 <!-- **tarasis/tarasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
