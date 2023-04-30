@@ -28,31 +28,21 @@ Technologies :
 
 </p>
 
-<!-- Able to configure & maintain Linux servers; from Arch Linux to Ubuntu. Experience with packages such as Apache HTTPD, Caddy, NGINX, Procmail, Exim, Postfix, SpamAssassin, Rspamd, NextCloud, Gitea, Jekyll, 11ty, Nunjucks and many more. -->
+able to do some codey work
 
 ---
 
 ## 🕰️ Short History 🕰️
 
-<!-- Once upon a time I was an embedded systems engineer working in C, C++ & Java (with some Ruby on the side), and admin for the company's Linux network. During this time I was tech editor for the book **Eclipse in Action** (Manning Publishing), before also becoming a writer on the book.
+<!-- Once upon a time, I was just a person who study engineering computer 
 
-After 5 years I left and became a stay at home parent. In 2007 I got my first Mac, and started to learn Objective-C and Mac programming to keep my hand in.
 
-Then the iPhone came along, and I started to learn iPhone development. Along the way I worked as technical editor and reviewer on a number of Mac and iPhone books.
 
-Throughout this time I self hosted my website & email server amongst other things. I've also provided Linux support for others.
 
 ## 📚 Currently working on ... 📚
 
-In 2021/2022 I started to learn HTML, CSS and JavaScript programming. At the moment I am mostly focused on completing [Frontend Mentor](https://www.frontendmentor.io/profile/tarasis) challenges.
+In 2021/2022 I started to learn HTML, CSS and JavaScript programming. At the moment I am mostly focused on js and lerning react.
 
-I have two iPhone/iPadOS apps in progress. One is a Kaomoji keyboard & sticker generator in SwiftUI. The other for managing Twitter Lists.
-
-I've just started [SoundpoolBrowser](https://github.com/tarasis/SoundpoolBrowser), a Mac app for managing Soundpool sets from Magix & Producer Planet. Its not intended for sale, highly niche and intended for me to make it easier to pick samples for Garageband / Logic Pro.
-
-I'm updating my old [Quiet Unrar](https://github.com/tarasis/QuietUnrar) Mac project. Well I'm supposed to be :)
-
-I've also begun learning Unity & C#.
 
 ## 🗺️ Where to find me ... 🗺️
 
