@@ -4,7 +4,8 @@
 
 ---
 
-<!-- I'm **HASAN** _(he, him, they)_, a dabbler in code, occasional tech editor for articles & books, and long long ago a book writer. -->
+I'm **HASAN** a dabbler in code.i'm going to be a
+**front-end** developer
 
 ---
 ## Skills
