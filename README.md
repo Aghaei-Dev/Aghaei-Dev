@@ -19,12 +19,13 @@ Technologies :
 
 <img src="images/html.svg" style='vertical-align:middle' aria-label="HTML 5">
 <img src="images/css.svg" style='vertical-align:middle' aria-label="CSS 3">
-<img src="images/sass.svg" style='vertical-align:middle' aria-label="Swift">
+<img src="images/sass.svg" style='vertical-align:middle' aria-label="sass">
 <img src="images/js.svg" style='vertical-align:middle' aria-label="JavaScript">
-<img src="images/react.svg" style='vertical-align:middle' aria-label="C">
- <img src="images/styled.svg" style='vertical-align:middle' aria-label="Swift">
-<img src="images/git.svg" style='vertical-align:middle' aria-label="C++">
-<img src="images/npm.svg" style='vertical-align:middle' aria-label="Ruby">
+<img src="images/react.svg" style='vertical-align:middle' aria-label="react">
+ <img src="images/styled.svg" style='vertical-align:middle' aria-label="styled component">
+<img src="images/mui.svg" style='vertical-align:middle' aria-label="mui">
+<img src="images/git.svg" style='vertical-align:middle' aria-label="git">
+<img src="images/npm.svg" style='vertical-align:middle' aria-label="npm">
 
 </p>
 
@@ -32,23 +33,22 @@ able to do some codey work
 
 ---
 
-## 🕰️ Short History 🕰️
-
-<!-- Once upon a time, I was just a person who study engineering computer 
-
-
-
-
 ## 📚 Currently working on ... 📚
 
 In 2021/2022 I started to learn HTML, CSS and JavaScript programming. At the moment I am mostly focused on js and lerning react.
+
+
+## 🕰️ Short History 🕰️
+
+I dont like history 😅
+
 
 
 ## 🗺️ Where to find me ... 🗺️
 
 I'm all over the place ...
 
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/robertmcgovern/) [![FrontendMentor](images/frontendmentor.svg)](https://www.frontendmentor.io/profile/tarasis) [![Twitter](images/twitter.svg)](https://www.twitter.com/tarasis) [![Telegram](images/telegram.svg)](https://t.me/duemoko) [![Blog](https://img.shields.io/badge/-%20%20BLOG%20%20-blueviolet?style=for-the-badge)](https://tarasis.net) [![Portfolio](https://img.shields.io/badge/-%20%20Portfolio%20%20-blueviolet?style=for-the-badge)](https://rmcg.dev) -->
+  [![Telegram](images/telegram.svg)](https://t.me/A_SED_HASAN) [![React Projects](https://img.icons8.com/color/48/heavy.png)](https://aall-react-projects.netlify.app/) 
 
 
 
@@ -78,11 +78,11 @@ The shields are from [Shunsuke Mano](https://github.com/progfay/shields-with-ico
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on SUDOKU
+- 🌱 I’m currently learning more more more react
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about front end 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
