@@ -48,9 +48,7 @@ I dont like history 😅
 
 I'm all over the place ...
 
-  [![Telegram](images/telegram.svg)](https://t.me/A_SED_HASAN)  [![Gmail](images/gmail.svg)](mailto:hasanaghaei6@gmail.com)  [![React Projects](https://img.icons8.com/color/48/heavy.png)](https://aall-react-projects.netlify.app/) 
-
-
+  [![Telegram](images/telegram.svg)](https://t.me/A_SED_HASAN) [![React Projects](https://img.icons8.com/color/48/heavy.png)](https://aall-react-projects.netlify.app/)   [![Gmail](images/gmail.svg)](hasanaghaei6@gmail.com) 
 
 <!-- <p>
 <img src="images/linkedin.svg" style='vertical-align:middle'> - [Robert McGovern](https://www.linkedin.com/in/robertmcgovern/)
