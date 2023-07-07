@@ -22,7 +22,7 @@ Technologies :
 <img src="images/sass.svg" style='vertical-align:middle' aria-label="Swift">
 <img src="images/js.svg" style='vertical-align:middle' aria-label="JavaScript">
 <img src="images/react.svg" style='vertical-align:middle' aria-label="C">
- <img src="images/styled.svg" style='vertical-align:middle;width:42px' aria-label="Swift">
+ <img src="images/styled.svg" style='vertical-align:middle' aria-label="Swift">
 <img src="images/git.svg" style='vertical-align:middle' aria-label="C++">
 <img src="images/npm.svg" style='vertical-align:middle' aria-label="Ruby">
 
