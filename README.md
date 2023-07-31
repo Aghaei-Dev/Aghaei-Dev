@@ -27,7 +27,8 @@ Technologies :
 <img src="images/git.svg" style='vertical-align:middle' aria-label="git">
 <img src="images/npm.svg" style='vertical-align:middle' aria-label="npm">
 <img src="images/firebase.svg" style='vertical-align:middle' aria-label="firebase">
-<img src="images/antV.svg" style='vertical-align:middle' aria-label="antV">
+<img src="images/ant.svg"  style='vertical-align:middle' aria-label="ant">
+<img src="images/antv.svg"  style='vertical-align:middle' aria-label="antv">
 
 </p>
 
