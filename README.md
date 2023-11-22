@@ -29,7 +29,7 @@ Technologies :
 <img src="images/firebase.svg" style='vertical-align:middle' aria-label="firebase">
 <img src="images/ant.svg" style='width:46px ;height:46px;vertical-align:middle' aria-label="ant">
 <img src="images/antv.png"  style='width:46px ;height:46px;vertical-align:middle' aria-label="antv">
-<img src="images/next.png"  style='vertical-align:middle' aria-label="next">
+<img src="images/next.png"  style='width:46px ;height:46px;vertical-align:middle' aria-label="next">
 
 </p>
 
