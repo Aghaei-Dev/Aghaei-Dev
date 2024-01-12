@@ -51,4 +51,4 @@ In 2021/2022 I started to learn HTML, CSS and JavaScript programming. At the mom
 
 I'm all over the place ...
 
-[![Telegram](images/telegram.svg)](https://t.me/A_SED_HASAN) [![React Projects](https://img.icons8.com/color/48/heavy.png)](https://aall-react-projects.netlify.app/) [![Gmail](images/gmail.svg)](hasanaghaei6@gmail.com)
+[![Telegram](images/telegram.svg)](https://t.me/A_SED_HASAN) [![React Projects](https://img.icons8.com/color/48/heavy.png)](https://aall-react-projects.netlify.app/) [![Gmail](images/gmail.svg)](aghaei.dev@gmail.com)
