@@ -1,54 +1,79 @@
-<p align="middle">
-<img src="images/hero.svg" width="300px" aria-hidden="true" alt="hacker" />
+<p align="center">
+  <img src="images/hero.svg" width="300px" alt="Hacker" aria-hidden="true" />
+</p>
+
+<h1 align="center">Hi, I'm HASAN 👋</h1>
+<p align="center"><strong>Front-end Developer | JavaScript Enthusiast | Lifelong Learner</strong></p>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate and curious front-end developer who loves building intuitive and performant web interfaces. My journey began in 2021 with the basics — HTML, CSS, and JavaScript — and quickly evolved into a love for frameworks like React and Next.js. I enjoy taking on new challenges, learning modern tools, and improving UI/UX experiences.
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="images/html.svg" alt="HTML5" title="HTML5" />
+  <img src="images/css.svg" alt="CSS3" title="CSS3" />
+  <img src="images/sass.svg" alt="Sass" title="Sass" />
+  <img src="images/js.svg" alt="JavaScript" title="JavaScript" />
+  <img src="images/typescript.svg" alt="TypeScript" title="TypeScript" />
+  <img src="images/react.svg" alt="React" title="React" />
+  <img src="images/next.png" alt="Next.js" title="Next.js" width="46" height="46" />
+  <img src="images/vue.svg" alt="Vue.js" title="Vue.js" />
+  <img src="images/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="images/styled.svg" alt="Styled Components" title="Styled Components" />
+  <img src="images/mui.svg" alt="Material UI" title="Material UI" />
+  <img src="images/ant.svg" alt="Ant Design" title="Ant Design" width="46" height="46" />
+  <img src="images/antv.png" alt="AntV" title="AntV" width="46" height="46" />
+  <img src="images/redux.svg" alt="Redux" title="Redux" />
+  <img src="images/git.svg" alt="Git" title="Git" />
+  <img src="images/npm.svg" alt="npm" title="npm" />
+  <img src="images/firebase.svg" alt="Firebase" title="Firebase" />
+  <img src="images/jest.svg" alt="Jest" title="Jest" />
 </p>
 
 ---
 
-I'm **HASAN** a dabbler in code.i'm going to be a
-**front-end** developer
+## 🧠 What I'm Learning
+
+- 🧩 Mastering **Advanced React Patterns**
+- 🌍 Exploring **Nuxt.js** and **Vue 3**
+- 🔧 Deepening knowledge of **Testing** with **Jest** and **React Testing Library**
+- 📦 Improving project structure and scalability
 
 ---
 
-## Skills
+## 🔭 Current Projects
 
-<p>
-Technologies : 
- <br/>
- <br/>
+- 🧠 **Sudoku Game** – A fun brain teaser in React (open to contributions!)
+- 📰 **Blog CMS** – Creating a content management system using Next.js
+- 📊 **Dashboard UI Kit** – Building reusable dashboard components
 
-<img src="images/html.svg" style='vertical-align:middle' aria-label="HTML 5">
-<img src="images/css.svg" style='vertical-align:middle' aria-label="CSS 3">
-<img src="images/sass.svg" style='vertical-align:middle' aria-label="sass">
-<img src="images/js.svg" style='vertical-align:middle' aria-label="JavaScript">
-<img src="images/typescript.svg"  style='vertical-align:middle' aria-label="typescript">
-<img src="images/react.svg" style='vertical-align:middle' aria-label="react">
- <img src="images/styled.svg" style='vertical-align:middle' aria-label="styled component">
-<img src="images/mui.svg" style='vertical-align:middle' aria-label="mui">
-<img src="images/git.svg" style='vertical-align:middle' aria-label="git">
-<img src="images/npm.svg" style='vertical-align:middle' aria-label="npm">
-<img src="images/firebase.svg" style='vertical-align:middle' aria-label="firebase">
-<img src="images/ant.svg" style='width:46px ;height:46px;vertical-align:middle' aria-label="ant">
-<img src="images/antv.png"  style='width:46px ;height:46px;vertical-align:middle' aria-label="antv">
-<img src="images/next.png"  style='width:46px ;height:46px;vertical-align:middle' aria-label="next">
+---
 
+## ✨ Featured Projects
+
+| Project        | Description                           | Demo / Repo                              |
+|----------------|---------------------------------------|------------------------------------------|
+| Sudoku Game    | A playable Sudoku game in React       | [View](https://your-sudoku-link.com)     |
+| React Projects | Mini React apps for learning purposes | [View](https://aall-react-projects.netlify.app/) |
+| UI Kit         | Reusable UI components (in progress)  | _Coming Soon_                            |
+
+---
+
+
+## 🌐 Where to Find Me
+
+<p align="center">
+  <a href="https://t.me/A_SED_HASAN"><img src="images/telegram.svg" alt="Telegram" title="Telegram" /></a>
+  <a href="mailto:aghaei.dev@gmail.com"><img src="images/gmail.svg" alt="Gmail" title="Email Me" /></a>
+  <a href="www.linkedin.com/in/Aghaei-Devv"><img src="images/linkedin.svg" alt="Linkedin" title="Linkedin" /></a>
 </p>
 
-able to do some codey work
-
 ---
 
-## 📚 Currently working on ... 📚
-
-In 2021/2022 I started to learn HTML, CSS and JavaScript programming. At the moment I am mostly focused on js and leaning react.
-
-- 🔭 I’m currently working on SUDOKU You can collaborate just fork it
-- 🌱 I’m currently learning react and more React
-- 👯 I’m looking to collaborate on Any React / Js Project
-- 💬 Ask me about front end
-- 📫 How to reach me: look at the end of README
-
-## 🗺️ Where to find me ... 🗺️
-
-I'm all over the place ...
-
-[![Telegram](images/telegram.svg)](https://t.me/A_SED_HASAN) [![React Projects](https://img.icons8.com/color/48/heavy.png)](https://aall-react-projects.netlify.app/) [![Gmail](images/gmail.svg)](aghaei.dev@gmail.com)
+<p align="center">✨ Keep Learning. Keep Building. Stay Curious. ✨</p>
