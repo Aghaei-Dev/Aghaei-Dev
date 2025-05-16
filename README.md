@@ -22,18 +22,20 @@ I'm a passionate and curious front-end developer who loves building intuitive an
   <img src="images/js.svg" alt="JavaScript" title="JavaScript" />
   <img src="images/typescript.svg" alt="TypeScript" title="TypeScript" />
   <img src="images/react.svg" alt="React" title="React" />
-  <img src="images/next.png" alt="Next.js" title="Next.js" width="46" height="46" />
-  <img src="images/vue.svg" alt="Vue.js" title="Vue.js" />
-  <img src="images/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="images/next.svg" alt="Next.js" title="Next.js" width="46" height="46" />
+  <img src="images/vue.svg" alt="Vue.js" title="Vue.js"  width="46" height="46"/>
+  <img src="images/nuxt.svg" alt="Nuxt.js" title="Nuxt.js"  width="46" height="46"/>
+  <img src="images/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS"  width="46" height="46"/>
   <img src="images/styled.svg" alt="Styled Components" title="Styled Components" />
   <img src="images/mui.svg" alt="Material UI" title="Material UI" />
   <img src="images/ant.svg" alt="Ant Design" title="Ant Design" width="46" height="46" />
   <img src="images/antv.png" alt="AntV" title="AntV" width="46" height="46" />
-  <img src="images/redux.svg" alt="Redux" title="Redux" />
+  <img src="images/redux.svg" alt="Redux" title="Redux" width="46" height="46"/>
   <img src="images/git.svg" alt="Git" title="Git" />
   <img src="images/npm.svg" alt="npm" title="npm" />
   <img src="images/firebase.svg" alt="Firebase" title="Firebase" />
-  <img src="images/jest.svg" alt="Jest" title="Jest" />
+  <img src="images/jest.svg" alt="Jest" title="Jest"  width="46" height="46"/>
+   <img src="images/ubuntu.svg" alt="ubuntu" title="ubuntu"  width="46" height="46"/>
 </p>
 
 ---
