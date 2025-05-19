@@ -82,7 +82,7 @@ I'm a dedicated front-end developer with a passion for turning designs into deli
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/A_SED_HASAN"><img src="images/telegram.svg" title="Telegram" /></a>
+  <a href="https://t.me/Aghaei_Dev"><img src="images/telegram.svg" title="Telegram" /></a>
   <a href="mailto:aghaei.dev@gmail.com"><img src="images/gmail.svg" title="Email Me" /></a>
   <a href="https://www.linkedin.com/in/Aghaei-Devv"><img src="images/linkedin.svg" title="LinkedIn" /></a>
 </p>
